@@ -1,5 +1,5 @@
 /**
- * Get Full Name
+ * Getbro Full Name
  * @name getFullName Concats first name and last name
  * @param {string} firstname in Stringformat
  * @param {string} lastname in Stringformat
