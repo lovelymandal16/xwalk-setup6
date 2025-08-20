@@ -10,6 +10,17 @@ function getFullName(firstname, lastname) {
 }
 
 /**
+ * Get Full Name
+ * @name getFullName Concats1 first name and last name
+ * @param {string} firstname in Stringformat
+ * @param {string} lastname in Stringformat
+ * @return {string}
+ */
+function getFullName1(firstname, lastname) {
+  return `${firstname} ${lastname}`.trim();
+}
+
+/**
  * Custom submit function
  * @param {scope} globals
  */
@@ -43,4 +54,4 @@ function days(endDate, startDate) {
 }
 
 // eslint-disable-next-line import/prefer-default-export
-export { getFullName, days, submitFormArrayToString };
+export { getFullName, getFullName1,days, submitFormArrayToString };
