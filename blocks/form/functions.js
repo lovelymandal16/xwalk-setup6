@@ -1,5 +1,5 @@
 /**
- * Getbro Full Name
+ * Get Full Name
  * @name getFullName Concats first name and last name
  * @param {string} firstname in Stringformat
  * @param {string} lastname in Stringformat
@@ -11,7 +11,7 @@ function getFullName(firstname, lastname) {
 
 /**
  * Get Full Name
- * @name getFullName Concats1 first name and last name
+ * @name getFullName1 Concats1 first name and last name
  * @param {string} firstname in Stringformat
  * @param {string} lastname in Stringformat
  * @return {string}
